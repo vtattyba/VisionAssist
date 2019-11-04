@@ -1,7 +1,7 @@
 ######## Picamera Object Detection Using Tensorflow Classifier #########
 #
 # Author: Vladimir Tattybayev 
-# Date: 10/20/2019
+# Date: 11/03/2019
 # Description: This code uses Tensor Flow for object detection. 
 # Initial code is being used to keep Camera's field of view centered.
 # Will trigger motor scripts to either turn left or right depending on 
