@@ -1,0 +1,5 @@
+1.) Raspberry Pi 4 2GB
+2.) Raspberry Pi Camera Video Module 5 Megapixel 1080p
+3.) ILS - Waterproof Ultrasonic Sensor Module Integrated Ranging Sensor Reversing Radar Measuring Distance
+4.) Tone Buzzer
+5.) Bread Board
