@@ -20,7 +20,7 @@ Designed a User Interface to help people struggling with blindness navigate thro
 - NC unused 
 
 ## Setting Up Code 
-First off all proper API's listed in the code most be installed. Along with this different TensorFlow Models can be used. Currently running 'ssdlite_mobilenet_v2_coco_2018_05_09' as it is optimized. Implementing Google Coral with quantized models will greatly improve performance. 
+First off all proper API's listed in the code must be installed. Along with this different TensorFlow Models can be used. Currently running 'ssdlite_mobilenet_v2_coco_2018_05_09' as it is optimized. Implementing Google Coral with quantized models will greatly improve performance. 
 
 Execute Object_detection_picamera.py in order to run. 
 
