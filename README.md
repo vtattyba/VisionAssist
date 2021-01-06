@@ -1,5 +1,8 @@
 # VisionAssist-
 
+## All UBHacking2019 Submissions can be found here: ##
+https://ubhacking2019.devpost.com/submissions
+
 ## What is it? 
 Designed a User Interface to help people struggling with blindness navigate through their environment. This project utilizes the power TensorFlow and Computer Vision to process camera footage in real-time identifying objects in a user's path. This UI provides haptic feedback through a buzzer to notify if the object is in their path, and which path to take next. 
 
@@ -24,8 +27,3 @@ First off all proper API's listed in the code must be installed. Along with this
 
 Execute Object_detection_picamera.py in order to run. 
 Code was modified and developed for our own purpose, but initial code was developed by Evan Juras
-
-
-## All UBHacking2019 Submissions can be found here: ##
-https://ubhacking2019.devpost.com/submissions
-
