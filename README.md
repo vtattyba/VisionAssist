@@ -1,10 +1,8 @@
-# VisionAssist-
+# VisionAssist
+Designed a hardware-based UI to help people struggling with vision impairedness navigate through their environment. This project utilizes the power of TensorFlow and Computer Vision to process camera footage in real-time identifying objects in a user's path. This UI provides haptic feedback through a buzzer to notify if the object is in their path, and which path to take next. 
 
 ## All UBHacking2019 Submissions can be found here: ##
 https://ubhacking2019.devpost.com/submissions
-
-## What is it? 
-Designed a User Interface to help people struggling with blindness navigate through their environment. This project utilizes the power TensorFlow and Computer Vision to process camera footage in real-time identifying objects in a user's path. This UI provides haptic feedback through a buzzer to notify if the object is in their path, and which path to take next. 
 
 ## Setting Up Pi 
 **Raspberry Pi Camera**
